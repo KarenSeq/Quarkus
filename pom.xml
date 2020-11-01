@@ -65,7 +65,7 @@
 			<version>1.18.16</version>
 			<scope>provided</scope>
 		</dependency>
-
+		<!-- Open API specification for Quarkus to expose it's API description -->
 		<dependency>
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-smallrye-openapi</artifactId>

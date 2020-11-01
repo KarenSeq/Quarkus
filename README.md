@@ -53,4 +53,10 @@ JPA implementation in Quarkus. Used with Hibernate ORM.
 
 Guide: https://quarkus.io/guides/hibernate-orm-panache
 
+# OpenAPI
+
+Exposes API description for Quarkus.
+
+Guide: https://download.eclipse.org/microprofile/microprofile-open-api-1.0/microprofile-openapi-spec.html
+
 
