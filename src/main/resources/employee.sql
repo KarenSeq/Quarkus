@@ -1,0 +1,1 @@
+insert into employee ('employee_id','employee_name') VALUES ('7111', 'Bart');
